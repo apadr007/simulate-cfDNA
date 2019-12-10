@@ -1,5 +1,4 @@
 import os
-os.chdir("/Users/ganglion/Google drive/Coursera/better coding/cfDNA simulation")
 print("Current Working Directory " , os.getcwd())
 
 def sample_frag_size(sequence, bps, prob):
